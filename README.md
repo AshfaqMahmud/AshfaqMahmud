@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ashfaq Mahmud</h1>
-<h3 align="center">R&D Engineer @ Shanghai BDCOM Information Technology Co., Ltd.</h3>
+<h3 align="center">Former R&D Engineer @ Shanghai BDCOM Information Technology Co., Ltd.</h3>
 
 - 📫 How to reach me **ashfaq.mahmud056@gmail.com**
 
